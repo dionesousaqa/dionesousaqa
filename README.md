@@ -15,7 +15,7 @@
 
 
 
-📝 Meu [Currículo](curriculum.pdf) em PDF
+📝 Meu [Currículo](Dione_Sousa-curriculo.doc.pdf) em PDF
 
 #
 
