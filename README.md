@@ -87,4 +87,4 @@ Acredito que a qualidade deve fazer parte de todo o ciclo de desenvolvimento de 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dionesousaqa)
 [![Email](https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:dione.msousa@yahoo.com.br)
 
-📄 **[Meu currículo em PDF](Curriculo_Dione_Sousa_QA_Junior (1).pdf)**
+📄 **[Meu currículo em PDF](Curriculo_Dione_Sousa_QA_Junior%20(1).pdf)**
